@@ -7,8 +7,7 @@
     <img src="https://img.shields.io/badge/Twitter%20-%20Follow%20-%20%231DA1F2" alt="Dheeraj Yadav's Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/dheerajfullstack/">
-    <img src="https://img.shields.io/badge/linkedin%20-%20Connect%20-%20%230077B5
-" alt="Dheeraj's LinkedIn"/>
+    <img src="https://img.shields.io/badge/linkedin%20-%20Connect%20-%20%230077B5" alt="Dheeraj's LinkedIn"/>
   </a>
 </p>
 
