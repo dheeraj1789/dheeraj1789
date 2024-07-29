@@ -1,6 +1,6 @@
 ### Hi there, I am Dheeraj Yadav 👋
 
-<h3 align="center">A Full Stack Engineer, having expertise in archetecture and design </h3>
+<h3 align="center">A Full Stack Engineer, having expertise in Architecture and Design </h3>
 
 <p align="center">
   <a href="https://twitter.com/yadavdheerajraj">
